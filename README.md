@@ -11,6 +11,8 @@ Annhylde 是一款自研开发的 AI Agent 工具，采用全新语言和架构�
 
 建议使用cmd运行，运行后根据提示在指定配置文件处添加密钥即可，建议使用deepseek-v4-flash
 
+介绍中的PTES_Report_taie.xxxsec.com.md是渗透测试报告、report.md是代码审计报告
+
 【使用方法】
 
 如果不想一直点yes，可以这样进入
