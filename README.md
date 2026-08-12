@@ -31,3 +31,7 @@ Annhylde --pass -r 可以查看历史记录
 可以通过 /helpme 查看使用指南
 
 <img width="2559" height="1368" alt="image" src="https://github.com/user-attachments/assets/4a0aa06a-a9ae-48ca-a957-fb4309789c18" />
+
+后续会发桌面版本
+
+<img width="2039" height="1323" alt="image" src="https://github.com/user-attachments/assets/a7738089-d156-480d-b736-495f0a45546c" />
